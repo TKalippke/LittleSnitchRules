@@ -1,5 +1,5 @@
 {
-  "description" : "Block list from Peter Lowe.\n\nhttps:\/\/pgl.yoyo.org\/adservers\/",
+  "description" : "Block list from Peter Lowe (http://pgl.yoyo.org/adservers/)",
   "name" : "Blocker: Ad Server",
   "rules" : [
     {
