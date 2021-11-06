@@ -1,5 +1,5 @@
 {
-  "description" : "Block list from Thomas Kalippke\nhttps:\/\/raw.githubusercontent.com\/TKalippke\/LittleSnitchRules\/master\/rules\/AdServerBlocker.lsrules\n\nIdea and basic rules from Peter Lowe.\n\nhttps:\/\/pgl.yoyo.org\/adservers\/",
+  "description" : "Block list from Thomas Kalippke\nhttps:\/\/raw.githubusercontent.com\/TKalippke\/LittleSnitchRules\/master\/rules\/AdServerBlocker.lsrules\nIdea and basic rules from Peter Lowe.\nhttps:\/\/pgl.yoyo.org\/adservers\/",
   "name" : "Blocker: Ad Server",
   "rules" : [
     {
